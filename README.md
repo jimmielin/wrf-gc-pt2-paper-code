@@ -1,3 +1,11 @@
+# WARNING: DO NOT USE THIS REPOSITORY FOR YOUR MODEL RUNS!
+
+## This is an archived copy of WRF-GC for replicating results in the WRF-GC 2.0 reference paper, Feng et al., 2021 GMD.
+
+## USE THIS REPOSITORY FOR OFFICIAL WRF-GC RELEASES: https://github.com/jimmielin/wrf-gc-release
+
+## REFER TO THE WRF-GC DOCUMENTATION (https://wrfgc.readthedocs.io/) AND WRF-GC WEBSITE (https://fugroup.org/index.php/WRF-GC) FOR THE LATEST VERSION WITH NEW FEATURES AND BUG FIXES.
+
 # WRF-GC | A two-way coupled meteo/chem model
 
 This repository (`wrf-gigc`) holds the `chem` directory for the WRF-GC model, which contains all the custom code necessary to run WRF-GC under a WRF installation
